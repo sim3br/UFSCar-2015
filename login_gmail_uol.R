@@ -2,7 +2,7 @@ library(RSelenium)
 library(XML)
 
 ###### ACESSAR UOL ######
-
+teste <- c(teste, #Selinium)
 url <- 'https://acesso.uol.com.br/login.html?skin=webmail'
 login M- "leobarone"
 senha <- "SUASENHA" 
